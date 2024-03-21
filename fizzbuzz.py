@@ -18,3 +18,4 @@ for fizzbuzz in range(101):
         continue
     # If the number is neither divisible by 3 nor 5, print the number itself
     print(fizzbuzz) 
+    
